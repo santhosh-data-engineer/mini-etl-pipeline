@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+warehouse.db
+*.sqlite3
+logs/*.log
+data/rejected/*.csv
